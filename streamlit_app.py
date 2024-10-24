@@ -1,10 +1,5 @@
 import streamlit as st
 from streamlit.components.v1 import html
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import plotly.express as px
-import plotly.graph_objects as go
 
 # Render the chart in Streamlit using streamlit.components.v1.html
 st.title("Why Toyota ?")
