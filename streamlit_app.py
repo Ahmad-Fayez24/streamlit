@@ -1,5 +1,4 @@
 import streamlit as st
-from ipyvizzu import Chart, Data, Config, DisplayTarget
 from streamlit.components.v1 import html
 import numpy as np
 import pandas as pd
